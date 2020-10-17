@@ -1,4 +1,4 @@
-src/api/*
+
 
 node_modules/**/*
 .expo/*
@@ -15,3 +15,4 @@ web-build/
 .DS_Store
 
 #apis
+src/api/yelp.js
